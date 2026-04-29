@@ -3,7 +3,7 @@
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 ## Tools required:
   Google colab   
-##  Theory
+##  Theory:
 Ideal or Instantaneous or Impulse Sampling:
 sampling signal is a periodic impulse train. The area of each impulse in the sampled signal is equal to the instantaneous value of the input signal.
 
