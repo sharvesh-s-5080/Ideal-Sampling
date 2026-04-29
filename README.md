@@ -58,7 +58,7 @@ plt.subplot(4,1,4); plt.plot(t,rec); plt.title("Reconstructed Signal")
 plt.tight_layout(); plt.show()
 ```
 ## Natural-Sampling Output Waveform:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2511c924-392e-4c83-84ea-5d95f784a653" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/16acf117-a538-4bd3-bf74-5c17243709c9" />
 
 
 ## Flat-top -Sampling Program:
@@ -87,7 +87,7 @@ plt.subplot(4,1,4); plt.plot(t,rec); plt.title("Reconstructed Signal")
 plt.tight_layout(); plt.show()
 ```
 ## Flat-top -Sampling Output Waveform:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff79973e-55ff-4ea9-b26c-066496194663" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dc4360d3-45c4-40f9-8606-3caac2117db4" />
 
 ## Result:
 Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were successfully implemented using Python, and the corresponding waveforms were obtained.
